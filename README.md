@@ -18,7 +18,7 @@ Given clinical parameters about a patient , can we predict whether or not they h
 
 The original data came from Cleavland data from UCI machine learning repo https://archive.ics.uci.edu/ml/datasets/heart+Disease
 
-there is also a version of it available on Kaggle https://www.kaggle.com/datasets/ratinkr/heart-disease
+that is also on Kaggle https://www.kaggle.com/datasets/ratinkr/heart-disease
 
 # 3. Evaluation
 
