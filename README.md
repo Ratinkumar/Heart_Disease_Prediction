@@ -1,6 +1,5 @@
 # Heart_Disease_Prediction
-PREDICTING HEART DISEASE USING ML
-THIS NOTEBOOK USES VARIOUS PYTHON-BASED ML AND DATA SCIENCE LIBRARIES IN AN ATTEMPT TO BUILD A ML MODEL CAPABLE OF PREDICTING WHETHER OR NOT SOMEONE HAS HEART DISEASE BASED ON THEIR MEDICAL ATTRIBUTES
+Predicting HEART DISEASE using ML. This Project uses various python-based ML and Data Science libraries in an attempt to build a ML model capable of predicting whether or not someone has HEART DISEASE based on their MEDICAL ATTRIBUTES
 
 We are going to take following approach -
 
